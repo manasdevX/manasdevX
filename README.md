@@ -37,29 +37,37 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical&cache_seconds=21600" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical"
+    alt="Manas GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasdevX&theme=radical" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=manasdevX&theme=radical"
+    alt="Manas GitHub Streak"
+  />
 </p>
+
 
 
 ---
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:agnihotrimanas99@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_manasagnihotri_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-  </a>
-  <a href="mailto:agnihotrimanas99@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" />
   </a>
 </p>
+
 
 
 ---
