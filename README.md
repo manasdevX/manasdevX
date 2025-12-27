@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manas Agnihotri</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Manas+Agnihotri;Full-Stack+Developer;DSA+Enthusiast;MERN+Stack+Builder" alt="Typing SVG" />
+</h1>
 <h3 align="center">B.Tech CSE @ MNNIT Allahabad | Full-Stack Developer & DSA Enthusiast</h3>
 
 <p align="center">
