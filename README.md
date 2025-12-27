@@ -46,10 +46,23 @@
 
 ---
 
-📫 Connect with Me – 
-<img src="https://skillicons.dev/icons?i=linkedin" width="18" /> LinkedIn: https://www.linkedin.com/in/manas-agnihotri-318117332/ –
-<img src="https://skillicons.dev/icons?i=gmail" width="18" /> Email: agnihotrimanas99@gmail.com –
-<img src="https://skillicons.dev/icons?i=instagram" width="18" /> Instagram: https://www.instagram.com/your_username/
+## 📫 Connect with Me
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="18" />
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/">https://www.linkedin.com/in/manas-agnihotri-318117332/</a>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gmail" width="18" />
+  <b>Email:</b> <a href="mailto:agnihotrimanas99@gmail.com">agnihotrimanas99@gmail.com</a>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=instagram" width="18" />
+  <b>Instagram:</b> <a href="https://www.instagram.com/_manasagnihotri_/?hl=en">https://www.instagram.com/_manasagnihotri_/?hl=en/</a>
+</p>
+
 
 
 - 📍 India
