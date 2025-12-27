@@ -19,27 +19,10 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- C++
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,postman,vercel" />
+</p>
 
-**Frontend**
-- HTML, CSS
-- React
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Tools & Platforms**
-- Git & GitHub
-- Postman
-- Vercel / Render
-
----
 
 ## 📌 Featured Projects
 
@@ -64,8 +47,17 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/manas-agnihotri-318117332/
-- 📧 Email: **agnihotrimanas99@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:agnihotrimanas99@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="[https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/](https://www.instagram.com/_manasagnihotri_/?hl=en)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 - 📍 India
 
 ---
