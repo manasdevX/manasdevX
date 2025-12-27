@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical&cache_seconds=21600" />
 </p>
 
 <p align="center">
@@ -47,26 +47,20 @@
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect with me:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="18" />
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/">https://www.linkedin.com/in/manas-agnihotri-318117332/</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+  <a href="https://www.instagram.com/_manasagnihotri_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  </a>
+  <a href="mailto:agnihotrimanas99@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+  </a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gmail" width="18" />
-  <b>Email:</b> <a href="mailto:agnihotrimanas99@gmail.com">agnihotrimanas99@gmail.com</a>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=instagram" width="18" />
-  <b>Instagram:</b> <a href="https://www.instagram.com/_manasagnihotri_/?hl=en">https://www.instagram.com/_manasagnihotri_/?hl=en/</a>
-</p>
-
-
-
-- 📍 India
 
 ---
 
