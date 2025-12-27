@@ -18,44 +18,43 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,postman,vercel" />
 </p>
 
+---
 
 ## 📌 Featured Projects
 
 ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
 **Scalable E-Commerce Web Application**  
 
+---
 
 ### 💊 [MediTime](https://github.com/manasdevX/MediTime)
 **Smart Medicine Reminder Web Application**  
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical"
-    alt="Manas GitHub Stats"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical" 
+    alt="Manas GitHub Stats" 
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=manasdevX&theme=radical"
-    alt="Manas GitHub Streak"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=manasdevX&theme=radical" 
+    alt="Manas GitHub Streak" 
   />
 </p>
-
-
 
 ---
 
 ## 🤝 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
@@ -67,8 +66,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" />
   </a>
 </p>
-
-
 
 ---
 
