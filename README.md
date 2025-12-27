@@ -47,17 +47,19 @@
 ---
 
 ## 📫 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:agnihotrimanas99@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  <a href="[https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/](https://www.instagram.com/_manasagnihotri_/?hl=en)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/your_username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
 </p>
+
 - 📍 India
 
 ---
