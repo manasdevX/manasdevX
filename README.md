@@ -27,28 +27,24 @@
 ## 📌 Featured Projects
 
 ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
-**Scalable E-Commerce Web Application**  
-
----
+**Scalable E-Commerce Web Application** ---
 
 ### 💊 [MediTime](https://github.com/manasdevX/MediTime)
-**Smart Medicine Reminder Web Application**  
-
----
+**Smart Medicine Reminder Web Application** ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=manasdevX&show_icons=true&theme=radical" 
-    alt="Manas GitHub Stats" 
+    alt="" 
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=manasdevX&theme=radical" 
-    alt="Manas GitHub Streak" 
+    alt="" 
   />
 </p>
 
@@ -57,13 +53,15 @@
 ## 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>&nbsp;&nbsp;
+  
   <a href="mailto:agnihotrimanas99@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/_manasagnihotri_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
 </p>
 
