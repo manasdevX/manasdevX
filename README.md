@@ -29,7 +29,7 @@
 ## 📌 Featured Projects
 
 ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
-**Scalable E-Commerce Web Application** 
+**Multi-Vendor E-Commerce Web Application** 
 
 ### 💊 [MediTime](https://github.com/manasdevX/MediTime)
 **Smart Medicine Reminder Web Application** 
