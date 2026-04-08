@@ -28,11 +28,11 @@
 
 ## 📌 Featured Projects
 
-### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
-**Multi-Vendor E-Commerce Web Application** 
+### 🛒 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)
+**Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** 
 
-### 💊 [MediTime](https://github.com/manasdevX/MediTime)
-**Smart Medicine Reminder Web Application** 
+### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
+**Multi-Vendor E-Commerce Web Application**
 
 ## 📊 GitHub Stats
 
