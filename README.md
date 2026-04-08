@@ -28,7 +28,7 @@
 
 ## 📌 Featured Projects
 
-### 🛒 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)
+### 🌍 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)
 **Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** 
 
 ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
