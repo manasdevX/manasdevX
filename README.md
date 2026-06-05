@@ -31,6 +31,9 @@
 ### 🌍 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)
 **Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** 
 
+### 🚨 [ResQAI](https://github.com/manasdevX/ResQAI)
+**Realtime emergency coordination platform.** 
+
 ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
 **Multi-Vendor E-Commerce Web Application.**
 
