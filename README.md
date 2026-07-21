@@ -11,11 +11,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science undergraduate at **MNNIT Allahabad**
-- 💻 Passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**
-- 🚀 Love building real-world applications and participating in **hackathons**
-- 🌱 Currently learning **MERN stack, JavaScript deep dive & system design**
-- 🧠 Strong interest in scalable backend systems
+- 🎓 Computer Science undergraduate at **MNNIT Allahabad**.
+- 💻 Passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**.
+- 🚀 Love building real-world applications and participating in **hackathons**.
+- 🌱 Currently learning **MERN stack, JavaScript deep dive & system design**.
+- 🧠 Strong interest in scalable backend systems and AI-powered applications.
 
 ---
 
@@ -26,16 +26,7 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🌍 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)
-**Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** 
-
-### 🚨 [ResQAI](https://github.com/manasdevX/ResQAI)
-**Realtime emergency coordination platform.** 
-
-### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy)
-**Multi-Vendor E-Commerce Web Application.**
+## 📌 Featured Projects ### 💰 [CapitalScale](https://github.com/manasdevX) **AI-Powered Loan Origination and Underwriting System.** ### 🚨 [ResQAI](https://github.com/manasdevX/ResQAI) **Real-time emergency coordination platform.** ### 🌍 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo) **Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy) **Multi-Vendor E-Commerce Web Application.**
 
 ## 📊 GitHub Stats
 
