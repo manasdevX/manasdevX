@@ -26,7 +26,19 @@
 
 ---
 
-## 📌 Featured Projects ### 💰 [CapitalScale](https://github.com/manasdevX) **AI-Powered Loan Origination and Underwriting System.** ### 🚨 [ResQAI](https://github.com/manasdevX/ResQAI) **Real-time emergency coordination platform.** ### 🌍 [TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo) **Intelligent LLM-based system for generating complete, personalized travel itineraries across India.** ### 🛒 [ShopEasy](https://github.com/manasdevX/ShopEasy) **Multi-Vendor E-Commerce Web Application.**
+## 📌 Featured Projects
+
+- 💰 **[CapitalScale](https://github.com/manasdevX/CapitalScale)**  
+  AI-Powered Loan Origination and Underwriting System.
+
+- 🚨 **[ResQAI](https://github.com/manasdevX/ResQAI)**  
+  Real-time emergency coordination platform.
+
+- 🌍 **[TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)**  
+  Intelligent LLM-based system for generating complete, personalized travel itineraries across India.
+
+- 🛒 **[ShopEasy](https://github.com/manasdevX/ShopEasy)**  
+  Multi-Vendor E-Commerce Web Application.
 
 ## 📊 GitHub Stats
 
