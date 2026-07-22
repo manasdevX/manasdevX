@@ -32,7 +32,7 @@
   AI-Powered Loan Origination and Underwriting System.
 
 - 🚨 **[ResQAI](https://github.com/manasdevX/ResQAI)**  
-  Real-time emergency coordination platform.
+  AI-Powered Real-Time Disaster Coordination Platform.
 
 - 🌍 **[TripSetGo](https://github.com/manasdevX/Hack18_TripSetGo)**  
   Intelligent LLM-based system for generating complete, personalized travel itineraries across India.
