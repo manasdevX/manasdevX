@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manas-agnihotri-318117332/">LinkedIn</a> •
-  <a href="mailto:agnihotrimanas99@gmail.com">Email</a>
+  <a href="mailto:manasagnihotri1010@gmail.com">Email</a>
 </p>
 
 ---
